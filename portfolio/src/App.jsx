@@ -433,14 +433,17 @@ const PROJECTS = [
   },
 
   {
-    title: "AWS Student Activity Monitoring",
-    subtitle: "Cloud Monitoring Application",
+    title: "AWS Student Activity Monitoring and Alert System",
+    subtitle: "Student Activity Monitoring and Alert Web Application",
     image: "/projects/aws-monitoring-website.png",
     tech: [
       "AWS",
-      "Cloud",
-      "Monitoring",
-      "Alerts",
+      "Python",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Mysql",
+      "django"
     ],
     text: "A cloud-based student activity monitoring application designed around monitoring functionality and alerts.",
     github: "https://github.com/AshwiniKV21",
@@ -457,6 +460,7 @@ const PROJECTS = [
       "JavaScript",
       "Python",
       "SQL",
+      "Django"
     ],
     text: "A job portal web application designed to organize job opportunities and provide a structured interface for job seekers.",
     github: "https://github.com/AshwiniKV21",
@@ -475,23 +479,6 @@ const PROJECTS = [
       "SQL",
     ],
     text: "A parking management web application designed to organize vehicle information and parking-space management.",
-    github: "https://github.com/AshwiniKV21",
-    live: "",
-  },
-
-  {
-    title: "Recipe Serving and Ratings",
-    subtitle: "Recipe Serving & Rating Web Application",
-    image: "/projects/recipe-book-website.png",
-    tech: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Python",
-      "Django",
-      "SQL",
-    ],
-    text: "A web application for managing recipe serving information and displaying recipe ratings using unique recipe IDs.",
     github: "https://github.com/AshwiniKV21",
     live: "",
   },
@@ -521,6 +508,7 @@ const PROJECTS = [
       "HTML",
       "CSS",
       "JavaScript",
+      "React.js"
     ],
     text: "A responsive medical tourism website designed to present healthcare information, medical services and tourism-related resources.",
     github: "https://github.com/AshwiniKV21",
